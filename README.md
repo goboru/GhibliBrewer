@@ -1,4 +1,4 @@
-# GlibliBrewer
+# GhibliBrewer
 Palettes from images in Studio Ghibli. 
 
 The package was based on coding from the [MetBrewer](https://github.com/BlakeRMills/MetBrewer) package. 
@@ -35,18 +35,35 @@ glibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
 
 **Display all palettes:**
 ```
-# Run the glibli.brewer() function without setting the output to a variable
-glibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
+# All palettes as default
+display.ghibli()
+
+# Set all palettes for n colours with n
+display.ghibli(n=4)
+
+# Change the direction of the palettes with direction
+display.ghibli(direction="random")
 ```
 
-**Display all colorblind-friendly palletes:**
+**Display all colorblind-friendly palettes:**
 ```
-# Run the glibli.brewer() function without setting the output to a variable
-glibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
+display.ghibli(colorblind=T)
 ```
 
 **Simulate palette view in the way that a person with protanopia, deuteranopia, or tritanopia would see them, respectively:**
-´´
+```
+plot.colorblind.ghib("Totoro-Mouth")
+```
+
+### Integration with ggplot2
+**Add discrete palette to ggplot:**
+```
+plot.colorblind.ghib("Totoro-Mouth)
+```
+**Add continuous palette to ggplot:**
+```
+plot.colorblind.ghib("Totoro-Mouth)
+```
 
 # Palettes
 

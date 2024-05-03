@@ -1,5 +1,5 @@
 # GhibliBrewer
-Use palettes created from the exquisite scenes from Studio Ghibli movies in your R plots!
+Transform your R plots with palettes inspired by the beautiful visuals of Studio Ghibli films!
 
 This package was based on coding from the [MetBrewer](https://github.com/BlakeRMills/MetBrewer) package. 
 All original images belong to Studio Ghibli (CC-licensed), and can be accessed through their [website](https://www.ghibli.jp/works/).
@@ -58,7 +58,7 @@ plot.colorblind.ghib("Totoro-Mouth")
 
 
 # Colorblind-friendly palette assistance
-We carefully created and tested colorblind-friendly palettes in our package. In addition, we also added the option for the user to study themself which colors in a palette are more problematic in regard to colorblind-friendliness. It is important to note that some palettes are not categorized as "colorblind-friendly" but if you were to remove one or two colors in the palette, you can achieve this feat. Our function to visualize palettes and check if they are clolorblind-friendly also work with any palette defined by the user. 
+We carefully created and tested colorblind-friendly palettes in our package. In addition, we also added the option for the user to study themself which colors in a palette are more problematic in regard to colorblind-friendliness. It is important to note that while some palettes aren't labeled as "colorblind-friendly," removing one or two colors can help achieve that. Our function to visualize palettes and check if they are clolorblind-friendly also work with any palette defined by the user.
 
 **Display all colorblind-friendly palettes:**
 ```

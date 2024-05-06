@@ -24,7 +24,7 @@ palette <- glibli.brewer(palette="Totoro-Mouth", direction="default", type="disc
 ```
 * palette: String, name of the palette
 * direction: "default", "reverse" or "random". "default" if not specified.
-* type: "discrete" or "continous". "discrete" if not specified. 
+* type: "discrete" or "continuous". "discrete" if not specified. 
 * n: Number of colors, up to the maximum of colors predefined in the palette. Maximun size of the palette by default.
 
 

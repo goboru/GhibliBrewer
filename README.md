@@ -86,15 +86,16 @@ plot.colorblind()
 
 ## Nausicaä of the Valley of the Wind (1984)
 ### Nausicaa-Pilot
+![NausicaaPilot](https://github.com/goboru/GhibliBrewer/assets/112853494/22db4d78-64d7-4e31-833d-28c16c7d2db8)
 
 ### Nausicaa-Bug
-
+![NausicaaBug](https://github.com/goboru/GhibliBrewer/assets/112853494/69a2fb59-98b1-499b-a45d-04daf53f8ca6)
 
 ## Castle in the Sky (1986)
 ### Sky-Grass
+![SkyGrass](https://github.com/goboru/GhibliBrewer/assets/112853494/cf0ba293-5ee9-4411-9bf9-b640f34f031e)
 
 ### Sky-Necklace
-
 
 ## My neighbour Totoro (1988)
 ### Totoro-Umbrella

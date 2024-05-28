@@ -256,3 +256,8 @@ plot.colorblind.palette(palette)
 
 ### Heron-Hug
 ![HeronHug](https://github.com/goboru/GhibliBrewer/assets/112853494/87d5d920-f9a2-4377-87b0-8d012235904c)
+
+
+
+
+*If you have come this far, why don't you try your expertise with game.ghib() ?*

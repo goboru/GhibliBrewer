@@ -1,5 +1,5 @@
 # GhibliBrewer
-Transform your R plots with palettes inspired by the beautiful visuals of Studio Ghibli films!
+Transform your R plots with palettes inspired by the beautiful visuals of Studio Ghibli movies!
 
 This package was based on coding from the [MetBrewer](https://github.com/BlakeRMills/MetBrewer) package. 
 All original images belong to Studio Ghibli (CC-licensed), and can be accessed through their [website](https://www.ghibli.jp/works/).
@@ -39,7 +39,7 @@ glibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
 # All palettes as set by default
 display.ghibli()
 
-# Display all palettes for with colours with "n"
+# Display all palettes with a specific number of colors with "n"
 display.ghibli(n=4)
 
 # Change the direction of the palettes with "direction"
@@ -62,7 +62,7 @@ We carefully created and tested colorblind-friendly palettes in our package. In 
 
 **Display all colorblind-friendly palettes:**
 ```
-display.ghibli(colorblind=T)
+display.ghibli(colorblind_only = T)
 ```
 
 **Simulate palette view in the way that a person with protanopia, deuteranopia, or tritanopia would see them, respectively:**
@@ -76,7 +76,7 @@ plot.colorblind.ghib()
 You can notice that the most problematic combination in this palette is between colors # and #. We can remove one of them, and, even if intuitively this palette does not appear colorblind-friendly, you can see that there is no problematic combination now:
 ```
 palete <- ghibli.brewer("")[1,2,3,5,6,7]
-plot.colorblind()
+plot.colorblind.palette(palette)
 ```
 
 # GhibliBrewer palettes

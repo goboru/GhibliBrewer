@@ -38,7 +38,10 @@ glibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
 ```
 # All palettes as set by default
 display.ghibli()
+```
+![All](https://github.com/goboru/GhibliBrewer/assets/102520815/f1b88ae4-4384-4168-b3cb-e91d49c3426e)
 
+```
 # Display all palettes with a specific number of colors with "n"
 display.ghibli(n=4)
 
@@ -64,24 +67,39 @@ We carefully created and tested colorblind-friendly palettes in our package. In 
 ```
 display.ghibli(colorblind_only = T)
 ```
+![all-cb](https://github.com/goboru/GhibliBrewer/assets/102520815/0d2515cc-c2e5-4087-bbe9-88142d73c390)
 
-**Simulate palette view in the way that a person with protanopia, deuteranopia, or tritanopia would see them, respectively:**
+**Simulate a GhibliBrewer palette in the way that a person with protanopia, deuteranopia, or tritanopia would see them, respectively:**
 ```
 plot.colorblind.ghib("Totoro-Mouth")
 ```
-A good example of a palette that is almost colorblind-friendly is "". We can visualize this palette using plot.colorblind.ghib()
+
+**Simulate any palette in the way that a person with protanopia, deuteranopia, or tritanopia would see them, respectively:**
 ```
-plot.colorblind.ghib()
-```
-You can notice that the most problematic combination in this palette is between colors # and #. We can remove one of them, and, even if intuitively this palette does not appear colorblind-friendly, you can see that there is no problematic combination now:
-```
-palete <- ghibli.brewer("")[1,2,3,5,6,7]
+palette <- c('red', 'green', 'orange', 'black')
 plot.colorblind.palette(palette)
 ```
+
+### Editing a palette considering colorblindness
+A good example of a palette that is close to being colorblind-friendly is "Howl-Peace". We can visualize this palette using plot.colorblind.ghib()
+```
+plot.colorblind.ghib("Howl-Peace")
+```
+![colorblind-example](https://github.com/goboru/GhibliBrewer/assets/102520815/bbb47b34-cc6a-4f1d-a491-dfd6a1ad098e)
+
+
+You can notice that the most problematic combination in this palette is between colors 2-7(tritanopia) and 4-7(deuteranopia and protanopia). We can remove one of them (#7), and, even if intuitively this palette does not appear colorblind-friendly, you can see that there is no highly-problematic combination now:
+```
+palette <- ghibli.brewer("Howl-Peace")[c(1,2,3,4,5,6)]
+plot.colorblind.palette(palette)
+```
+![colorblind-fixed](https://github.com/goboru/GhibliBrewer/assets/102520815/918960eb-77b4-41b9-9e28-f8b33e37775a)
+
 
 # GhibliBrewer palettes
 
 ## All palettes
+![All](https://github.com/goboru/GhibliBrewer/assets/102520815/f1b88ae4-4384-4168-b3cb-e91d49c3426e)
 
 
 ## Nausicaä of the Valley of the Wind (1984)

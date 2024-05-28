@@ -85,8 +85,7 @@ A good example of a palette that is close to being colorblind-friendly is "Howl-
 ```
 plot.colorblind.ghib("Howl-Peace")
 ```
-![colorblind-example](https://github.com/goboru/GhibliBrewer/assets/102520815/bbb47b34-cc6a-4f1d-a491-dfd6a1ad098e)
-
+![colorblind-example](https://github.com/goboru/GhibliBrewer/assets/102520815/e19e4415-00b8-4e08-b907-0734e8c92592)
 
 You can notice that the most problematic combination in this palette is between colors 2-7(tritanopia) and 4-7(deuteranopia and protanopia). We can remove one of them (#7), and, even if intuitively this palette does not appear colorblind-friendly, you can see that there is no highly-problematic combination now:
 ```

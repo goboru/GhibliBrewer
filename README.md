@@ -117,19 +117,16 @@ plot.colorblind.palette(palette)
 ![NB](https://github.com/goboru/GhibliBrewer/assets/112853494/418aaf70-df7e-4850-8cd0-160d290b2794)
 
 ## Castle in the Sky (1986)
-### Sky-Grass
-![SG](https://github.com/goboru/GhibliBrewer/assets/112853494/a220124c-4cd4-4f37-a2c4-0bb5e326e86f)
-
 ### Sky-Necklace
 ![SN](https://github.com/goboru/GhibliBrewer/assets/112853494/a3a017be-bf89-485f-9ac4-641e524729fc)
+
+### Sky-Grass
+![SG](https://github.com/goboru/GhibliBrewer/assets/112853494/a220124c-4cd4-4f37-a2c4-0bb5e326e86f)
 
 ### Sky-Pirate
 ![SP](https://github.com/goboru/GhibliBrewer/assets/112853494/8666942a-532f-4d24-92f3-d4f39de704ad)
 
 ## My neighbour Totoro (1988)
-### Totoro-Umbrella
-![TU](https://github.com/goboru/GhibliBrewer/assets/112853494/949517a8-1a54-4082-ba65-794717655caf)
-
 ### Totoro-Mouth
 ![TM](https://github.com/goboru/GhibliBrewer/assets/112853494/e2582db2-38ca-4e5e-9640-857a1d62986a)
 
@@ -141,6 +138,14 @@ plot.colorblind.palette(palette)
 
 ### Totoro-School
 ![TS](https://github.com/goboru/GhibliBrewer/assets/112853494/726daae3-b6c4-40ba-8eb8-0bca01a953cc)
+
+### Totoro-Umbrella
+![TU](https://github.com/goboru/GhibliBrewer/assets/112853494/949517a8-1a54-4082-ba65-794717655caf)
+
+## Kiki's Delivery Service (1989)
+### Kiki-Beach
+![KB](https://github.com/goboru/GhibliBrewer/assets/102520815/481c5516-1525-4ebe-b728-0f2ad87623f8)
+
 
 ## Only Yesterday (1991)
 ### Yesterday-Park
@@ -163,6 +168,13 @@ plot.colorblind.palette(palette)
 ## On Your Mark (1995)
 ### Mark-Car
 ![MC](https://github.com/goboru/GhibliBrewer/assets/112853494/e39c5c64-2b9d-4c0c-8605-6323013285b9)
+
+## Whisper of the Heart (1995)
+### Whisper-Roads
+![WR](https://github.com/goboru/GhibliBrewer/assets/102520815/d37e2f10-6d3f-467e-bbad-926c4d501523)
+
+###Whisper-Rock
+![WK](https://github.com/goboru/GhibliBrewer/assets/102520815/a2f08bbf-53e6-419a-9a1d-f4d3bdb9468a)
 
 ## Princess Mononoke (1997)
 ### Mononoke-Hug
@@ -242,13 +254,6 @@ plot.colorblind.palette(palette)
 ### Earthsea-Lightning
 ![EL](https://github.com/goboru/GhibliBrewer/assets/112853494/38b1346a-5d2a-4c5f-9484-ba293607184c)
 
-## Arrietty (2010)
-### Arrietty-Garden
-![AG](https://github.com/goboru/GhibliBrewer/assets/112853494/a87e3aa7-aace-401c-9846-2869b5db5c90)
-
-### Arrietty-Bedroom
-![AB](https://github.com/goboru/GhibliBrewer/assets/112853494/46b3dee9-a543-479d-971a-b9fe3551c9db)
-
 ## Ponyo (2008)
 ### Ponyo-Joy
 ![PJ](https://github.com/goboru/GhibliBrewer/assets/112853494/f46227be-a35c-478d-b3b9-08dd8cc0f461)
@@ -264,6 +269,13 @@ plot.colorblind.palette(palette)
 
 ### Ponyo-Godess
 ![PoG](https://github.com/goboru/GhibliBrewer/assets/112853494/8eb0c788-88a5-49f9-a7a3-e81cea85b207)
+
+## Arrietty (2010)
+### Arrietty-Garden
+![AG](https://github.com/goboru/GhibliBrewer/assets/112853494/a87e3aa7-aace-401c-9846-2869b5db5c90)
+
+### Arrietty-Bedroom
+![AB](https://github.com/goboru/GhibliBrewer/assets/112853494/46b3dee9-a543-479d-971a-b9fe3551c9db)
 
 ## The Wind Rises (2013)
 ### Wind-Timer

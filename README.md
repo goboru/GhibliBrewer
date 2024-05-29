@@ -264,6 +264,10 @@ plot.colorblind.palette(palette)
 ### Wind-Kiss
 ![WK](https://github.com/goboru/GhibliBrewer/assets/112853494/008ce4c9-b979-4292-8ddd-4a803253ba22)
 
+## The Tale of the Princess Kaguya (2013)
+### Kaguya-Kimono
+![KK](https://github.com/goboru/GhibliBrewer/assets/112853494/c2c81ef7-b48d-485d-aa9c-4926be0deed4)
+
 ## When Marnie Was There (2014)
 ### Marnie-Bedroom
 ![MB](https://github.com/goboru/GhibliBrewer/assets/112853494/61b077c4-9adf-420b-aecc-2452f724f931)

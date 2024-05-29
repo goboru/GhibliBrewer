@@ -103,33 +103,30 @@ plot.colorblind.palette(palette)
 
 ## Nausicaä of the Valley of the Wind (1984)
 ### Nausicaa-Pilot
-![NausicaaPilot](https://github.com/goboru/GhibliBrewer/assets/112853494/22db4d78-64d7-4e31-833d-28c16c7d2db8)
+
 
 ### Nausicaa-Bug
-![NausicaaBug](https://github.com/goboru/GhibliBrewer/assets/112853494/69a2fb59-98b1-499b-a45d-04daf53f8ca6)
+
 
 ## Castle in the Sky (1986)
 ### Sky-Grass
-![SkyGrass](https://github.com/goboru/GhibliBrewer/assets/112853494/cf0ba293-5ee9-4411-9bf9-b640f34f031e)
+
 
 ### Sky-Necklace
-![SkyNecklace](https://github.com/goboru/GhibliBrewer/assets/112853494/cca12921-55c8-4578-90b9-31e8daf25ab8)
+
 
 ## My neighbour Totoro (1988)
 ### Totoro-Umbrella
-![TotoroUmbrella](https://github.com/goboru/GhibliBrewer/assets/112853494/028a098c-873b-4926-8f7d-b06fc3be4d4a)
+
 
 ### Totoro-Mouth
-![TotoroMouth](https://github.com/goboru/GhibliBrewer/assets/112853494/626825a1-c18c-4000-a5db-bfa43cc7d7b2)
+
 
 ### Totoro-Catbus
-![TotoroCatbus](https://github.com/goboru/GhibliBrewer/assets/112853494/94e7694e-0188-4eeb-bfe3-2d4ff5480e78)
 
 ### Totoro-House
-![TotoroHouse](https://github.com/goboru/GhibliBrewer/assets/112853494/efff1010-bc1c-4492-b8d1-b0260bd6eb42)
 
 ### Totoro-School
-![TotoroSchool](https://github.com/goboru/GhibliBrewer/assets/112853494/a044460a-9734-4b4f-9711-1d135bd80f1c)
 
 
 ## Only Yesterday (1991)
@@ -138,14 +135,11 @@ plot.colorblind.palette(palette)
 
 ## Porco Rosso (1992) 
 ### Porco-Plane
-![PorcoPlane](https://github.com/goboru/GhibliBrewer/assets/112853494/08b3a149-6bde-478d-8805-4816a6399c8c)
 
 ### Porco-Cave
-![PorcoCave](https://github.com/goboru/GhibliBrewer/assets/112853494/87770448-1af9-44fc-9b80-bebfe1f907c0)
 
 ## Pom Poko (1994)
 ### Pompoko-Fortune
-![PompokoFortune](https://github.com/goboru/GhibliBrewer/assets/112853494/78035a23-8780-4e00-895d-7f79acee745b)
 
 ## On Your Mark (1995)
 ### Mark-Car
@@ -153,13 +147,10 @@ plot.colorblind.palette(palette)
 
 ## Princess Mononoke (1997)
 ### Mononoke-Hug
-![MononokeHug](https://github.com/goboru/GhibliBrewer/assets/112853494/2107e48e-08c1-4108-8a6d-862835aeaf38)
 
 ### Mononoke-Knife
-![MononokeKnife](https://github.com/goboru/GhibliBrewer/assets/112853494/a2c9deea-76b8-4dd9-b52f-dff4d87b59ce)
 
 ### Mononoke-Guardian
-![MononokeGuardian](https://github.com/goboru/GhibliBrewer/assets/112853494/0803c938-bc6f-4400-87f7-2a88f127687d)
 
 ## My Neighbors the Yamadas (1999)
 ### Yamadas
@@ -167,16 +158,12 @@ plot.colorblind.palette(palette)
 
 ## Spirited away (2001)
 ### Chihiro-Dragon
-![ChihiroDragon](https://github.com/goboru/GhibliBrewer/assets/112853494/964049ee-721f-4245-92e8-d6d20b355735)
 
 ### Chihiro-Lump
-![ChihiroLump](https://github.com/goboru/GhibliBrewer/assets/112853494/a735956c-294b-4ba5-a2ed-96b242e8febb)
 
 ### Chihiro-Bridge
-![ChihiroBridge](https://github.com/goboru/GhibliBrewer/assets/112853494/15160bac-684c-4a1f-8bd5-fb559f5fc7c6)
 
 ### Chihiro-NoFace
-![ChihiroNoFace](https://github.com/goboru/GhibliBrewer/assets/112853494/e86a98b2-5cf2-4a38-be5c-b863f5aefea7)
 
 
 ## The Cat Returns (2002)
@@ -191,19 +178,14 @@ plot.colorblind.palette(palette)
 
 ## Howl's Moving Castle (2004)
 ### Howl-Horizon
-![HowlHorizon](https://github.com/goboru/GhibliBrewer/assets/112853494/91b0935e-7d18-45b6-a935-8b58823858a3)
 
 ### Howl-Peace
-![HowlPeace](https://github.com/goboru/GhibliBrewer/assets/112853494/a5fd7dd5-475f-419d-b561-09a2d230a9c3)
 
 ### Howl-Terrace
-![HowlTerrace](https://github.com/goboru/GhibliBrewer/assets/112853494/4041375a-cba9-4190-b91d-c15072e2143e)
 
 ### Howl-FireDemon
-![HowlFiredemon](https://github.com/goboru/GhibliBrewer/assets/112853494/824ae0e6-ea20-4e8b-8ad8-7555ee69586f)
 
 ### Howl-Star
-![HowlStar](https://github.com/goboru/GhibliBrewer/assets/112853494/db56cb0e-0238-429c-85b8-d2e5cc7f77ab)
 
 ### Howl-Breakfast
 
@@ -224,18 +206,14 @@ plot.colorblind.palette(palette)
 
 ## Ponyo (2008)
 ### Ponyo-Joy
-![PonyoJoy](https://github.com/goboru/GhibliBrewer/assets/112853494/40ecee86-d356-4dc8-93b6-497b401a7c55)
 
 ### Ponyo-Ramen
-![PonyoRamen](https://github.com/goboru/GhibliBrewer/assets/112853494/c2f9790e-7798-4370-9317-25b3ed9f1de7)
 
 ### Ponyo-Boat
-![PonyoBoat](https://github.com/goboru/GhibliBrewer/assets/112853494/fda7a05c-9463-4cfb-bfbf-c4652acbdc03)
 
 
 ## The Wind Rises (2013)
 ### Wind-Timer
-![WindTimer](https://github.com/goboru/GhibliBrewer/assets/112853494/b9aee7d2-c52a-45d5-8639-82cce4606b61)
 
 ### Wind-Kiss
 
@@ -251,10 +229,8 @@ plot.colorblind.palette(palette)
 ### Heron-Jelly
 
 ### Heron-Parrots
-![HeronParrots](https://github.com/goboru/GhibliBrewer/assets/112853494/2841fbf8-f3db-4aba-a9bd-681bf07c34f1)
 
 ### Heron-Hug
-![HeronHug](https://github.com/goboru/GhibliBrewer/assets/112853494/87d5d920-f9a2-4377-87b0-8d012235904c)
 
 
 

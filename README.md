@@ -51,12 +51,20 @@ display.ghibli(direction="random")
 ### Integration with ggplot2
 **Add discrete palette to ggplot:**
 ```
-plot.colorblind.ghib("Totoro-Mouth")
+ggplot(diamonds, aes(x = cut, fill=cut)) +
+  geom_bar()+
+  scale_fill_ghib_d("Howl-FireDemon")
 ```
+![ggplot-discrete](https://github.com/goboru/GhibliBrewer/assets/102520815/baa2c216-5018-4ba9-bebe-9cb4c35db639)
+
 **Add continuous palette to ggplot:**
 ```
-plot.colorblind.ghib("Totoro-Mouth")
+ggplot(diamonds, aes(x = price, y = depth, color=depth)) +
+  geom_point() +
+  scale_color_ghib_c("Mononoke-Guardian")
 ```
+![ggplot-continuous](https://github.com/goboru/GhibliBrewer/assets/102520815/ee01b38e-f70b-4850-9133-9d209c2c4ea0)
+
 
 
 

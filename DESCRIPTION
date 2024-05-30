@@ -2,7 +2,7 @@ Package: GhibliBrewer
 Type: Package
 Title: Color package using palettes from Studio Ghibli movies
 Version: 1.0
-Author: Gonzalo Borrego-Yaniz and Javier Martínez-López
+Author: Gonzalo Borrego-Yaniz and Javier Martinez-Lopez
 Maintainer: Gonzalo Borrego-Yaniz <gonzaloyaniz@ipb.csic.es> 
 Description:  Palettes from public images from Studio Ghibli movies with 60 palettes, 18 of them colorblind friendly. 
 Imports: 

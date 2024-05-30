@@ -178,7 +178,7 @@ plot.colorblind.palette(palette)
 ### Whisper-Roads
 ![WR](https://github.com/goboru/GhibliBrewer/assets/102520815/d37e2f10-6d3f-467e-bbad-926c4d501523)
 
-###Whisper-Rock
+### Whisper-Rock
 ![WK](https://github.com/goboru/GhibliBrewer/assets/102520815/a2f08bbf-53e6-419a-9a1d-f4d3bdb9468a)
 
 ## Princess Mononoke (1997)

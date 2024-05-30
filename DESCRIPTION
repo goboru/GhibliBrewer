@@ -6,6 +6,15 @@ Author: Gonzalo Borrego-Yaniz and Javier Martinez-Lopez
 Maintainer: Gonzalo Borrego-Yaniz <gonzaloyaniz@ipb.csic.es> 
 Description:  Palettes from public images from Studio Ghibli movies with 60 palettes, 18 of them colorblind friendly. 
 Imports: 
+Imports: 
+    ggplot2,
+    rlang,
+    ggstream,
+    cowplot,
+    glue, 
+    lifecycle,
+    graphics,
+    stats
 
 License: GPL-3.0
 Encoding: UTF-8

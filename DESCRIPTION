@@ -16,5 +16,6 @@ Imports:
     graphics,
     stats
 
+LazyData: true
 License: GPL-3.0
 Encoding: UTF-8

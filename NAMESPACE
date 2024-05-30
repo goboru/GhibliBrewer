@@ -1,2 +1,1 @@
-importFrom grDevices rgb
-importFrom graphics rect par image text
+

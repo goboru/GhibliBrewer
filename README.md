@@ -53,9 +53,9 @@ display.ghibli(direction="random")
 ```
 ggplot(diamonds, aes(x = cut, fill=cut)) +
   geom_bar()+
-  scale_fill_ghib_d("Howl-FireDemon")
+  scale_fill_ghib_d("Howl-FireDemon", n=5)
 ```
-![ggplot-discrete](https://github.com/goboru/GhibliBrewer/assets/102520815/baa2c216-5018-4ba9-bebe-9cb4c35db639)
+![ggplot-discrete](https://github.com/goboru/GhibliBrewer/assets/102520815/a2afdaf6-90f8-4179-b77b-f9a5655f5c39)
 
 **Add continuous palette to ggplot:**
 ```
@@ -64,7 +64,12 @@ ggplot(diamonds, aes(x = price, y = depth, color=depth)) +
   scale_color_ghib_c("Mononoke-Guardian")
 ```
 ![ggplot-continuous](https://github.com/goboru/GhibliBrewer/assets/102520815/ee01b38e-f70b-4850-9133-9d209c2c4ea0)
-
+```
+ggplot(diamonds, aes(x = log(price), y = carat)) +
+  geom_hex() +
+  scale_fill_ghib_c("Heron-Jelly")
+```
+![ggplot-continuous2](https://github.com/goboru/GhibliBrewer/assets/102520815/e9c7d3e2-ffcd-4063-b3bb-53c90f009f8b)
 
 
 
@@ -95,12 +100,12 @@ plot.colorblind.ghib("Howl-Peace")
 ```
 ![colorblind-example](https://github.com/goboru/GhibliBrewer/assets/102520815/e19e4415-00b8-4e08-b907-0734e8c92592)
 
-You can notice that the most problematic combination in this palette is between colors 2-7(tritanopia) and 4-7(deuteranopia and protanopia). We can remove one of them (#7), and, even if intuitively this palette does not appear colorblind-friendly, you can see that there is no highly-problematic combination now:
+You can notice that the most problematic combination in this palette is between colors 4-7(deuteranopia and protanopia) and 2-7(tritanopia). We can remove one of them (#7), and you can see that there is no highly-problematic combination now:
 ```
 palette <- ghibli.brewer("Howl-Peace")[c(1,2,3,4,5,6)]
 plot.colorblind.palette(palette)
 ```
-![colorblind-fixed](https://github.com/goboru/GhibliBrewer/assets/102520815/918960eb-77b4-41b9-9e28-f8b33e37775a)
+![colorblind-improved](https://github.com/goboru/GhibliBrewer/assets/102520815/08790427-01a5-4c81-a078-3a78cf8ad580)
 
 
 # GhibliBrewer palettes

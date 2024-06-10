@@ -19,8 +19,8 @@ devtools::install_github("goboru/GhibliBrewer")
 # Usage
 **Create a palette:**
 ```
-palette <- glibli.brewer("Howl-Castle")
-palette <- glibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
+palette <- ghibli.brewer("Howl-Castle")
+palette <- ghibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
 ```
 * palette: String, name of the palette
 * direction: "default", "reverse" or "random". "default" if not specified.
@@ -30,8 +30,8 @@ palette <- glibli.brewer(palette="Totoro-Mouth", direction="default", type="disc
 
 **Display an individual palette:**
 ```
-# Run the glibli.brewer() function without assigning the output to a variable
-glibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
+# Run the ghibli.brewer() function without assigning the output to a variable
+ghibli.brewer(palette="Totoro-Mouth", direction="default", type="discrete", n=5)
 ```
 
 **Display all palettes:**
